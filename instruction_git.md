@@ -90,4 +90,4 @@
 
 Чтобы осуществить переход к главному коммиту Master, нужно использовать комманду:
 
-git checkout $master$
+* git checkout $master$
